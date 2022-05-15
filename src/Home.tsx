@@ -1365,7 +1365,7 @@ const Home = (props: HomeProps) => {
                       FEATURED LAUNCH
                     </div>
                     <h1 className="mt-1 tw-text-[58px] tw-font-extrabold tw-leading-none">
-                      Project Hive
+                                                        TrippyKidz
                     </h1>
                     <div className="tw-inline-flex tw-gap-2 tw-content-center tw-w-fit-content tw-flex-wrap">
                       <div
