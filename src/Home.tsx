@@ -1396,7 +1396,7 @@ const Home = (props: HomeProps) => {
                       </div>
                       <div className="tw-border tw-border-solid tw-border-purple-1 tw-p-2 tw-rounded-md tw-text-white-1 tw-h-fit-content tw-text-[14px] tw-flex tw-gap-2 tw-whitespace-nowrap">
                         <span className="tw-font-light">PRICE</span>
-                        <span className="tw-font-bold">2.5 ◎</span>
+                        <span className="tw-font-bold">2 ◎</span>
                       </div>
                       <div className="tw-flex tw-items-center tw-gap-2">
                         <div
@@ -1409,7 +1409,7 @@ const Home = (props: HomeProps) => {
                           <a
                             target="_blank"
                             rel="noopener noreferrer"
-                            href="https://project-hive.io/"
+                                                                    href="https://trippykidz.net/"
                           >
                             <img
                               src="./img/globe_white.1cc8238d.svg"
@@ -1427,7 +1427,7 @@ const Home = (props: HomeProps) => {
                           <a
                             target="_blank"
                             rel="noopener noreferrer"
-                            href="https://discord.gg/project-hive"
+                                                                    href="hhttps://discord.com/invite/trippykidz"
                           >
                             <img
                               src="./img/discord_white.a80cd7b6.svg"
@@ -1445,7 +1445,7 @@ const Home = (props: HomeProps) => {
                           <a
                             target="_blank"
                             rel="noopener noreferrer"
-                            href="https://twitter.com/project_hive_io"
+                                                                    href="https://twitter.com/TrippyKidzNFT"
                           >
                             <img
                               src="./img/twitter_white.646bf11e.svg"
@@ -1456,11 +1456,9 @@ const Home = (props: HomeProps) => {
                       </div>
                     </div>
                     <p className="tw-mb-4 tw-text-gray-light">
-                      Best shot to prepare for the game to be released later
-                      this year. Probably the most important Project Hive’s
-                      collection ever will be minted. Play-to-Earn PvP oriented
-                      turn-based game with a clan system, high-quality NFT items
-                      and PvE content.
+                                                        Exclusive collection of 2222 NFTs tripping on the Solana
+                                                        blockchain. TrippyKidz is a brand built by the community, for
+                                                        the community.
                     </p>
                     <div className="tw-flex tw-flex-col tw-gap-4">
                       <div
@@ -1480,21 +1478,21 @@ const Home = (props: HomeProps) => {
                               </div>
                             </div>
                             <div className="tw-flex tw-flex-row tw-gap-2 tw-text-pink-hot tw-text-sm tw-tracking-wide tw-font-medium tw-text-center tw-uppercase tw-items-center">
-                              In progress
+                              Ended
                               <div className="tw-flex tw-gap-2 tw-ml-auto"></div>
                             </div>
                           </div>
                           <div className="tw-flex tw-gap-1.5 tw-text-white-1 tw-tracking-wide tw-text-sm">
                             <span>
-                              WHITELIST <b>5628</b>
+                              WHITELIST <b>1111</b>
                             </span>
                             <b>•</b>
                             <span>
-                              MAX <b>3 TOKEN</b>
+                              MAX <b>1 TOKEN</b>
                             </span>
                             <b>•</b>
                             <span>
-                              Price <b>2.5◎</b>
+                              Price <b>1.5◎</b>
                             </span>
                           </div>
                         </div>
@@ -1522,11 +1520,11 @@ const Home = (props: HomeProps) => {
                           </div>
                           <div className="tw-flex tw-gap-1.5 tw-text-white-1 tw-tracking-wide tw-text-sm">
                             <span>
-                              MAX <b>5 TOKENS</b>
+                              MAX <b>2 TOKENS</b>
                             </span>
                             <b>•</b>
                             <span>
-                              Price <b>2.5◎</b>
+                              Price <b>2◎</b>
                             </span>
                           </div>
                         </div>
@@ -1554,13 +1552,13 @@ const Home = (props: HomeProps) => {
                         <div className="tw-flex tw-items-center tw-justify-between tw-text-[14px] tw-text-gray-5">
                           <span className="">Total minted</span>
                           <span>
-                            <b className="tw-text-white-1">91%</b> (6370/7000)
+                            <b className="tw-text-white-1">93%</b> (1997/2222)
                           </span>
                         </div>
                         <div className="progress-bar__container">
                           <div
                             className="progress-bar__value"
-                            style={{ width: "91%" }}
+                            style={{ width: "92%" }}
                           />
                         </div>
                       </div>
@@ -1665,7 +1663,7 @@ const Home = (props: HomeProps) => {
                   <div className="tw-flex tw-flex-1 tw-flex-col md:tw-flex-row tw-mx-auto tw-gap-32 tw-pb-20 tw-justify-between">
                     <div className="tw-flex tw-flex-col tw-gap-4 tw-flex-grow md:tw-w-[40%]">
                       <h1 className="mt-1 tw-text-[58px] tw-font-extrabold tw-leading-none">
-                        Project Hive
+                        TrippyKidz
                       </h1>
                       <div className="tw-flex tw-flex-wrap tw-gap-4">
                         <a
@@ -1715,7 +1713,7 @@ const Home = (props: HomeProps) => {
                           <span>Website</span>
                         </a>
                         <a
-                          href="https://discord.com/invite/Project%20Hive"
+                                                                href="https://trippykidz.net/"
                           target="_blank"
                           rel="noreferrer noopener"
                           className="tw-border tw-border-solid tw-border-purple-1 tw-flex tw-items-center tw-gap-2 tw-w-fit tw-rounded-full tw-px-2.5 tw-py-1.5 tw-text-white-2"
@@ -1738,7 +1736,7 @@ const Home = (props: HomeProps) => {
                           <span>Discord</span>
                         </a>
                         <a
-                          href="https://twitter.com/Project%20HiveNFT"
+                                                                href="https://discord.com/invite/trippykidz"
                           target="_blank"
                           rel="noreferrer noopener"
                           className="tw-border tw-border-solid tw-border-purple-1 tw-flex tw-items-center tw-gap-2 tw-w-fit tw-rounded-full tw-px-2.5 tw-py-1.5 tw-text-white-2"
@@ -1766,54 +1764,19 @@ const Home = (props: HomeProps) => {
                           className="tw-text-white-1 tw-text-xl tw-pt-1 tw-pb-3"
                           //level={1}
                         >
-                          Description
+                          
                         </h2>
                         <p className="tw-text-gray-light tw-mb-3 tw-text-[16] tx-line-[24]">
-                          This is the first NFT collection of Project Hive, the
-                          incoming turn-based tactical RPG with open-world HUBs
-                          and massive scale PVP combat. Our goal is to provide
-                          our existing community of future players with truly
-                          generous opportunities. As you will become the first
-                          ones to support our project during this initial
-                          development stage, we are going to provide every
-                          possible benefit to our Pfps holders. Let it be
-                          staking of Pfps to receive in-game tokens at the game
-                          launch, WLs in Starter Packs sale, required to start
-                          playing the game, Governance token private round
-                          allocation, which is required to purchase Starter
-                          Packs and much more, we’ve tried to cover the whole
-                          chain of things, the player will need to start playing
-                          the future game and pack those in Pfps utilities.
-                          Every single Pfp will provide holders with the full
-                          package of opportunities later on, prior the game
-                          release and even after that in all of our future
-                          updates. This is basically an all-in-one deal for
-                          those interested in playing Project Hive in the
-                          future. Among everything mentioned before, this
-                          collection was created by Marcin Rubikowski. A man of
-                          many talents and a true artist in the best possible
-                          way, current Art Director of Project Hive. Marcin
-                          played a key role as a concept artist in such big
-                          names as Netflix’s Love,Death+Robots series, Bungie’s
-                          Destiny 2, Ghostrunner and a lot more amazing projects
-                          in the past. Winner of CGsociety, Artstation, Wacom,
-                          CG+ awards. Pfps have been crafted with the kitbash
-                          technique. It’s sometimes very interesting to just
-                          zoom in and try to guess which elements were used to
-                          create one or another element of this collection. The
-                          Many united with a single goal into One, something
-                          absolutely new and unique, is the true fundamental
-                          concept of both Project Hive and this particular
-                          collection. Unite players. All around the globe. Into
-                          one single community to start playing the game when it
-                          releases. Receive fun and entertainment from playing
-                          competitive, beautiful and complex game modes. Improve
-                          in-game characters and personal skills. And challenge
-                          the most complicated end-game content. We welcome
-                          everyone in our community and will open our doors into
-                          the open Beta version of the game in April. In the
-                          meantime you can just check our Alpha prototype on our
-                          website./p&gt;
+                                                                TrippyKidz is an exclusive collection of 2222 NFTs tripping on
+                                                                the Solana Blockchain. We are a community-based project focused
+                                                                on maintaining a strong, tight-knit community while building the
+                                                                TrippyKidz brand. TrippyKidz envisions to be one of the most
+                                                                reputable brand creating a united community focusing on helping
+                                                                people, while becoming the most used and respected PFP on Solana.
+                                                                We are dedicated and plan to continue with the branding of our
+                                                                project around the NFT space and have connections that can
+                                                                further establish our brand to benefit our holders long term,
+                                                                while adding value to TrippyKidz.
                         </p>
                       </div>
                     </div>
@@ -1832,57 +1795,55 @@ const Home = (props: HomeProps) => {
                         <div className="tw-p-4">
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                              Phase 1:
+                              Phase A:
                             </p>
                             <br />
                           </div>
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                              Launch of 7,000 Project Hive NFTs.
+                                                                        Community Development
                             </p>
                             <br />
                           </div>
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                              Build Community and Project HiveList.
+                                                                        Art Reveal
                             </p>
                             <br />
                           </div>
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                              Finalise artwork.
+                                                                        Official Website
                             </p>
                             <br />
                           </div>
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                              Phase 2:
+                              Phase B:
                             </p>
                             <br />
                           </div>
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                              Project HiveDAO setup, Bluechip Partnerships /
-                              Collaborations.
+                                              TrippyKidz Launch
                             </p>
                             <br />
                           </div>
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                              Staking to earn $Project Hive.
+                                               Auctions of 1/1s
                             </p>
                             <br />
                           </div>
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                              Merch Drop, holders receive daily % of secondary
-                              sales.
+                                               Tokenomics Reveal
                             </p>
                             <br />
                           </div>
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                              Phase 3:
+                              Phase C:
                             </p>
                             <br />
                           </div>
@@ -1894,29 +1855,25 @@ const Home = (props: HomeProps) => {
                           </div>
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                              Easter Egg Airdrops / Charity Partnerships.
+                                                                        Relics
                             </p>
                             <br />
                           </div>
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                              Breeding + Arcade Games integrated in Project
-                              Hive's website.
+                                                                        Mutants
                             </p>
                             <br />
                           </div>
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                              Phase 4:
+                                                                        Official Merch
                             </p>
                             <br />
                           </div>
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                              Voted and decided on by the Project HiveDAO. We
-                              have lot's of ideas of what we would like to do in
-                              the future, but we would like the community to get
-                              involved with ideas and suggestions.
+                                                                        Trippykidz IRL
                             </p>
                             <br />
                           </div>
