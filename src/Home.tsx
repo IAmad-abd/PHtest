@@ -1392,7 +1392,7 @@ const Home = (props: HomeProps) => {
                       </div>
                       <div className="tw-border tw-border-solid tw-border-purple-1 tw-p-2 tw-rounded-md tw-text-white-1 tw-h-fit-content tw-text-[14px] tw-flex tw-gap-2 tw-whitespace-nowrap">
                         <span className="tw-font-light">TOTAL ITEMS</span>
-                        <span className="tw-font-bold">7&nbsp;000</span>
+                        <span className="tw-font-bold">2&nbsp;222</span>
                       </div>
                       <div className="tw-border tw-border-solid tw-border-purple-1 tw-p-2 tw-rounded-md tw-text-white-1 tw-h-fit-content tw-text-[14px] tw-flex tw-gap-2 tw-whitespace-nowrap">
                         <span className="tw-font-light">PRICE</span>
@@ -1535,12 +1535,12 @@ const Home = (props: HomeProps) => {
                     <div className="overflow-hidden tw-w-full tw-mb-4 tw-flex-grow tw-rounded-3xl">
                       <div>
                         <img
-                          src="./img/project.gif"
+                                                                src="./img/project.webp"
                           alt="Cynova"
                           className="tw-object-cover tw-aspect-square tw tw-w-screen tw-flex-grow tw-rounded-3xl overflow-hidden"
                         />
                         <img
-                          src="./img/project.gif"
+                                                                src="./img/project.webp"
                           width={1}
                           height={1}
                           className="tw-absolute tw-invisible"
