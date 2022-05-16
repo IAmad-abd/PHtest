@@ -642,6 +642,46 @@ const Home = (props: HomeProps) => {
                   >
                     6,533,092 SOL
                   </span>
+
+
+
+
+
+
+                                                <li className="tw-text-xs tw-mr-4 tw-whitespace-nowrap">
+                                                    <span className="tw-text-gray2-500" style={{ fontSize: 12 }}>
+                                                        Volume 24h:&nbsp;&nbsp;
+                                                    </span>
+                                                    <span
+                                                        className="tw-text-pink-primary"
+                                                        style={{ fontSize: 12 }}
+                                                    >
+                                                        87,376 SOL
+                                                    </span>
+                                                </li>
+
+
+
+                                                <li className="tw-text-xs tw-mr-4 tw-whitespace-nowrap">
+                                                    <span className="tw-text-gray2-500" style={{ fontSize: 12 }}>
+                                                        Volume 24h:&nbsp;&nbsp;
+                                                    </span>
+                                                    <span
+                                                        className="tw-text-pink-primary"
+                                                        style={{ fontSize: 12 }}
+                                                    >
+                                                        87,376 SOL
+                                                    </span>
+                                                </li>
+
+
+
+
+
+
+
+
+
                 </li>
               </ul>
             </div>
